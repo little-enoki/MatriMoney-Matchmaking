@@ -1,0 +1,1358 @@
+{
+  "location": "San Francisco, CA",
+  "styles": [
+    "Outdoor spaces",
+    "Hotels",
+    "Vineyards",
+    "Restaurants"
+  ],
+  "source": "https://www.zola.com/wedding-vendors/wedding-venues",
+  "collected": "2026-09-17",
+  "venue_count": 58,
+  "venues": [
+    {
+      "id": "111-minna-gallery",
+      "name": "111 Minna Gallery",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 7680,
+      "capacity_min": null,
+      "capacity_max": 75,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/111-minna-gallery",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "620-jones",
+      "name": "620 Jones",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1000,
+      "capacity_min": null,
+      "capacity_max": 1400,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "outdoor",
+        "indoor",
+        "covered-outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/620-jones",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "al-masri-egyptian-restaurant--2",
+      "name": "Al-Masri Egyptian Restaurant",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1000,
+      "capacity_min": 20,
+      "capacity_max": 60,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": null,
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/al-masri-egyptian-restaurant--2",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "argonaut-hotel",
+      "name": "Argonaut Hotel",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15000,
+      "capacity_min": 10,
+      "capacity_max": 350,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/argonaut-hotel",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "b-star",
+      "name": "B Star",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1100,
+      "capacity_min": 5,
+      "capacity_max": 35,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/b-star",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "bay-lights-charters",
+      "name": "Bay Lights Charters",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 3800,
+      "capacity_min": 2,
+      "capacity_max": 49,
+      "rating": 5.0,
+      "review_count": 100,
+      "indoor_outdoor": [
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/bay-lights-charters",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "beacon-grand-a-union-square-hotel",
+      "name": "Beacon Grand, A Union Square Hotel",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": 5,
+      "capacity_max": 200,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/beacon-grand-a-union-square-hotel",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "birdsong",
+      "name": "Birdsong",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": 1,
+      "capacity_max": 45,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/birdsong",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "chambers-eat-drink",
+      "name": "Chambers eat + drink",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15000,
+      "capacity_min": 25,
+      "capacity_max": 200,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels",
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/chambers-eat-drink",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "che-fico",
+      "name": "Che Fico",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 30000,
+      "capacity_min": null,
+      "capacity_max": 150,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/che-fico",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "city-cruises-san-francisco",
+      "name": "City Cruises San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 3000,
+      "capacity_min": null,
+      "capacity_max": 645,
+      "rating": 3.8,
+      "review_count": 71,
+      "indoor_outdoor": [
+        "outdoor",
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/city-cruises-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "city-view-at-metreon",
+      "name": "City View At Metreon",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": null,
+      "capacity_max": 800,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "raw space",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/city-view-at-metreon",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "coqueta",
+      "name": "Coqueta",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15000,
+      "capacity_min": 1,
+      "capacity_max": 75,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "covered-outdoor",
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/coqueta",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "del-popolo",
+      "name": "Del Popolo",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 2500,
+      "capacity_min": null,
+      "capacity_max": 90,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/del-popolo",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "empress-by-boon",
+      "name": "Empress by Boon",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 4000,
+      "capacity_min": null,
+      "capacity_max": 250,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/empress-by-boon",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "exploratorium",
+      "name": "Exploratorium",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 11900,
+      "capacity_min": 50,
+      "capacity_max": 500,
+      "rating": 5.0,
+      "review_count": 3,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "raw space",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/exploratorium",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "four-seasons-san-francisco",
+      "name": "Four Seasons San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 35000,
+      "capacity_min": null,
+      "capacity_max": 450,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/four-seasons-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "presidio-golden-gate-club-by-wedgewood-weddings",
+      "name": "Golden Gate Club at the Presidio",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15365,
+      "capacity_min": 2,
+      "capacity_max": 300,
+      "rating": 5.0,
+      "review_count": 9,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/presidio-golden-gate-club-by-wedgewood-weddings",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "grumpy-s-pub-pizza",
+      "name": "Grumpy's Pub & Pizza",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 4000,
+      "capacity_min": 15,
+      "capacity_max": 80,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/grumpy-s-pub-pizza",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "harborview-restaurant-bar",
+      "name": "Harborview Restaurant & Bar",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 5000,
+      "capacity_min": null,
+      "capacity_max": 300,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/harborview-restaurant-bar",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "high-horse",
+      "name": "High Horse",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 500,
+      "capacity_min": 2,
+      "capacity_max": 80,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/high-horse",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "hilda-and-jesse",
+      "name": "Hilda and Jesse",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 3500,
+      "capacity_min": 1,
+      "capacity_max": 50,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hilda-and-jesse",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "hotel-adagio",
+      "name": "Hotel Adagio",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 5000,
+      "capacity_min": null,
+      "capacity_max": 80,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hotel-adagio",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "hotel-emblem-san-francisco",
+      "name": "Hotel Emblem San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": null,
+      "capacity_max": 150,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hotel-emblem-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "hotel-kabuki",
+      "name": "Hotel Kabuki",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 5000,
+      "capacity_min": null,
+      "capacity_max": 400,
+      "rating": 5.0,
+      "review_count": 2,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hotel-kabuki",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "hotel-nikko-san-francisco",
+      "name": "Hotel Nikko San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 5000,
+      "capacity_min": null,
+      "capacity_max": 550,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hotel-nikko-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "hotel-via-rooftop",
+      "name": "Hotel VIA Rooftop",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 7000,
+      "capacity_min": 50,
+      "capacity_max": 100,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "covered-outdoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hotel-via-rooftop",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "hotel-via",
+      "name": "Hotel Via",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15000,
+      "capacity_min": 50,
+      "capacity_max": 125,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hotel-via",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "hyatt-regency-downtown-soma",
+      "name": "Hyatt Regency Downtown SOMA",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": 1,
+      "capacity_max": 900,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hyatt-regency-downtown-soma",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "hyatt-regency-san-francisco-downtown-soma",
+      "name": "Hyatt Regency San Francisco Downtown Soma",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15000,
+      "capacity_min": 50,
+      "capacity_max": 500,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/hyatt-regency-san-francisco-downtown-soma",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "presidio-log-cabin-by-wedgewood-weddings",
+      "name": "Log Cabin at the Presidio by Wedgewood Weddings",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 11865,
+      "capacity_min": 2,
+      "capacity_max": 150,
+      "rating": 5.0,
+      "review_count": 9,
+      "indoor_outdoor": [
+        "outdoor",
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/presidio-log-cabin-by-wedgewood-weddings",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "macondray",
+      "name": "Macondray",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1500,
+      "capacity_min": null,
+      "capacity_max": null,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/macondray",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "marigold-event-space",
+      "name": "Marigold Event Space",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1600,
+      "capacity_min": null,
+      "capacity_max": 50,
+      "rating": 5.0,
+      "review_count": 2,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/marigold-event-space",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "marines-memorial-club",
+      "name": "Marines' Memorial Club",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1750,
+      "capacity_min": 10,
+      "capacity_max": 270,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels",
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/marines-memorial-club",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "mission-bowling-club",
+      "name": "Mission Bowling Club",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": null,
+      "capacity_max": 75,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/mission-bowling-club",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "monroe--2",
+      "name": "Monroe",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": null,
+      "capacity_max": 250,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/monroe--2",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "natoma-cabana",
+      "name": "Natoma Cabana",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 500,
+      "capacity_min": 2,
+      "capacity_max": 70,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/natoma-cabana",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "palm-house--3",
+      "name": "Palm House",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 12500,
+      "capacity_min": 14,
+      "capacity_max": 30,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/palm-house--3",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "plant-connection-sf",
+      "name": "Plant Connection SF",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1200,
+      "capacity_min": null,
+      "capacity_max": 96,
+      "rating": 5.0,
+      "review_count": 4,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/plant-connection-sf",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "presidio-golf-course-clubhouse",
+      "name": "Presidio Golf Course & Clubhouse",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 5000,
+      "capacity_min": 40,
+      "capacity_max": 230,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor",
+        "covered-outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/presidio-golf-course-clubhouse",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "presido-chapel-by-wedgewood-weddings",
+      "name": "Presido Chapel at the Presidio",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": 2,
+      "capacity_max": 150,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/presido-chapel-by-wedgewood-weddings",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "queens-louisiana-po-boy-cafe",
+      "name": "Queen's Louisiana Po-boy Cafe",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 4000,
+      "capacity_min": 30,
+      "capacity_max": 100,
+      "rating": 5.0,
+      "review_count": 2,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/queens-louisiana-po-boy-cafe",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "rick-roxy-s",
+      "name": "Rick & Roxy's",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1500,
+      "capacity_min": 60,
+      "capacity_max": 100,
+      "rating": 5.0,
+      "review_count": 2,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels",
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/rick-roxy-s",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "sams-grill-and-seafood-restaurant",
+      "name": "Sam's Grill and Seafood restaurant",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 120,
+      "capacity_min": 1,
+      "capacity_max": 40,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/sams-grill-and-seafood-restaurant",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "skyline-events-sf",
+      "name": "Skyline Events SF",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": null,
+      "capacity_max": 300,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/skyline-events-sf",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "starlite",
+      "name": "Starlite",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 10000,
+      "capacity_min": 40,
+      "capacity_max": 90,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/starlite",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "temple-san-francisco",
+      "name": "Temple San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 8000,
+      "capacity_min": 30,
+      "capacity_max": 100,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/temple-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "tequila-mockingbird",
+      "name": "Tequila Mockingbird",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1500,
+      "capacity_min": null,
+      "capacity_max": null,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/tequila-mockingbird",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "the-city-club-of-san-francisco",
+      "name": "The City Club Of San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 12000,
+      "capacity_min": 25,
+      "capacity_max": 220,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-city-club-of-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "the-clift-royal-sonesta-hotel-san-francisco",
+      "name": "The Clift Royal Sonesta Hotel San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 4500,
+      "capacity_min": 100,
+      "capacity_max": 150,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-clift-royal-sonesta-hotel-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "the-commonwealth-club-of-california",
+      "name": "The Commonwealth Club Of California",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": 80,
+      "capacity_max": 200,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor",
+        "covered-outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-commonwealth-club-of-california",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "the-marker-san-francisco",
+      "name": "The Marker San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 125,
+      "capacity_min": 10,
+      "capacity_max": 150,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Hotels",
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-marker-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "the-pearl",
+      "name": "The Pearl",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": null,
+      "capacity_min": 75,
+      "capacity_max": 220,
+      "rating": 4.45,
+      "review_count": 20,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-pearl",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "the-ramp",
+      "name": "The Ramp",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 25000,
+      "capacity_min": 20,
+      "capacity_max": 350,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "outdoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-ramp",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "the-st-regis-san-francisco",
+      "name": "The St. Regis San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 30000,
+      "capacity_min": null,
+      "capacity_max": 250,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor",
+        "covered-outdoor",
+        "outdoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels",
+        "Outdoor spaces"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-st-regis-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts",
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--outdoor-space"
+      ]
+    },
+    {
+      "id": "the-westin-st-francis-san-francisco",
+      "name": "The Westin St. Francis - San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 15000,
+      "capacity_min": null,
+      "capacity_max": 750,
+      "rating": 5.0,
+      "review_count": 1,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "all-inclusive",
+      "styles": [
+        "Hotels"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/the-westin-st-francis-san-francisco",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--hotels-inns-resorts"
+      ]
+    },
+    {
+      "id": "whitechapel",
+      "name": "Whitechapel",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 5000,
+      "capacity_min": 35,
+      "capacity_max": 115,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": "select services",
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/whitechapel",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    },
+    {
+      "id": "yerba-buena-bar",
+      "name": "Yerba Buena Bar",
+      "city": "San Francisco",
+      "state": "CA",
+      "price": 1500,
+      "capacity_min": null,
+      "capacity_max": null,
+      "rating": 0,
+      "review_count": 0,
+      "indoor_outdoor": [
+        "indoor"
+      ],
+      "service_level": null,
+      "styles": [
+        "Restaurants"
+      ],
+      "url": "https://www.zola.com/wedding-vendors/wedding-venues/yerba-buena-bar",
+      "source": [
+        "https://www.zola.com/wedding-vendors/search/san-francisco-ca--wedding-venues--restaurants-breweries"
+      ]
+    }
+  ]
+}
